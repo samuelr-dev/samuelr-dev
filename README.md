@@ -20,3 +20,4 @@ Estudante de Ciência da Computação na UNIMAR, com foco em desenvolvimento bac
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/samuelrodrigues-dev)
+- [Email](contatosamuelrodrigues@outlook.com)
