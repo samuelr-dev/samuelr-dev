@@ -12,7 +12,8 @@ Estudante de Ciência da Computação na UNIMAR, com foco em desenvolvimento bac
 
 - [php-poo](https://github.com/samuelr-dev/php-poo): exercícios de PHP da disciplina de Programação Orientada a Objetos
 - [gerador-dados-ficticios](https://github.com/samuelr-dev/gerador-dados-ficticios): aplicação desktop em Python (Tkinter) que gera dados e notícias fictícias com IA
-
+- [estrutura-de-dados-c](https://github.com/samuelr-dev/estrutura-de-dados-c): exercícios de Estrutura de Dados em linguagem C
+  
 ## Reconhecimentos
 
 - Vencedor do Hackathon Unimar Tech Summit 2026
