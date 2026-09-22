@@ -12,6 +12,7 @@ Estudante de Ciência da Computação na UNIMAR, com foco em desenvolvimento bac
 
 - [frete-estrategico-dados](https://github.com/samuelr-dev/frete-estrategico-dados): dashboard em Python (Streamlit) sobre cotações de frete: rede, lojas e transportadoras
 - [gerador-dados-ficticios](https://github.com/samuelr-dev/gerador-dados-ficticios): aplicação desktop em Python (Tkinter) que gera dados e notícias fictícias com IA
+- [python-pensamento-computacional](https://github.com/samuelr-dev/python-pensamento-computacional): exercícios e trabalhos de Python da disciplina de Pensamento Computacional
 - [estrutura-de-dados-c](https://github.com/samuelr-dev/estrutura-de-dados-c): exercícios de Estrutura de Dados em linguagem C
 - [php-poo](https://github.com/samuelr-dev/php-poo): exercícios de PHP da disciplina de Programação Orientada a Objetos
 
